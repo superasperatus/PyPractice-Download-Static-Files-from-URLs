@@ -1,0 +1,10 @@
+http://www.example.com/image1.jpg
+http://www.example.com/image3.png
+http://www.example.com/image2.svg
+http://www.example.com/image4.jpg
+http://www.example.com/image5.png
+http://www.example.com/image55.webp
+http://www.example.com/image63.png
+http://www.example.com/pdf-sample.pdf
+http://www.example.com/pdf-sample2.pdf
+http://www.example.com/pdf-sample123.pdf
