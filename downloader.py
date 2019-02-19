@@ -36,7 +36,7 @@ create_directory()
 
 
 def download_file():
-    "Goes through the list of URLs and downloades each one in pre-created folder with a specific (URL folder strucute stripped) file name"
+    """Goes through the list of URLs and downloades each one in pre-created folder with a specific (URL folder strucute stripped) file name"""
     for lines in urls:
         try:
             req.urlretrieve(lines, '{0}/{1}'.format(folder_path, lines.split('/')[-1]))
